@@ -30,7 +30,7 @@
 <p>
 Google Clone, building with Django, Python, React
 </p>
-### Built With
+## Built With
 <div id="built-with"></div>
 
 * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
