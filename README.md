@@ -1,6 +1,7 @@
 <h1 align="center">Google Clone</h1>
 <p id="top" align="center">
-    <img  alt="LandingPagePNG" src="https://user-images.githubusercontent.com/84526474/135869349-6dac7c92-2521-4598-8051-b0f9e529faf8.PNG"  alt="Logo" width="150" height="80"/> 
+      <img  alt="Landing" src="https://user-images.githubusercontent.com/84526474/135876049-4e65febc-3299-45c9-bdf3-f8b2f9a562ce.PNG"
+  alt="Logo" width="150" height="80"/> 
   </a>
   
   <h3 align="center">Google Clone With React/Python/Django  </h3>
@@ -19,7 +20,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="950" alt="LandingPagePNG" src="https://user-images.githubusercontent.com/84526474/135870024-adf11b01-5817-4c4d-b735-20aad470dc05.PNG">
+<img width="949" alt="Landing" src="https://user-images.githubusercontent.com/84526474/135876213-30c918a4-1069-4fb0-a892-bcddfc517755.PNG">
+
 
 
 
