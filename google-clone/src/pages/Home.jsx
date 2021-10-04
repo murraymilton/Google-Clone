@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import AppIcon from "@material-ui/icons/Apps"
 import { Avatar } from '@material-ui/core'
+import Search from '../components/Search/Search'
 import './Home.css'
 function Home() {
     return (
@@ -17,18 +18,16 @@ function Home() {
                  <Link to="/images">Images</Link>
                  <AppIcon />
                  <Avatar />
-                 {/* <Link to="/icon">About</Link>
-                 <Link to="/avatar">About</Link> */}
-                    
-                    {/*Gmail */}
-                    {/*Images */}
-                    {/*Icon */}
-                    {/*Avatar */}
-
                 </div>
            </div>
            <div className="home__body">
+                <img
+                src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+                alt="google branding logo"/>
 
+                <div className="home__inputContainer">
+                    <Search />
+                </div>
            </div>
         </div>
     )
