@@ -12,6 +12,7 @@ function Search() {
 
         //Added a console.log. To check the enter key response
         console.log("The Google Search or Enter key was hit!!!! Show search page");
+        console.log(input)
     }
     return (
         <form className="search">
